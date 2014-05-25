@@ -9,7 +9,7 @@ b) Codebook
 
 
 The R file ( run_Analysis.R ) stores the scripts for :
-======================================================
+
 1) Reading different files into R
 
 2) Combining the different files to get a master data set.
