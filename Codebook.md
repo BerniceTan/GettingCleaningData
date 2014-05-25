@@ -28,10 +28,8 @@ with the variables as below are then created.
 Variables
 =========
 
-1	subject		 
-ID indicating the subject from whom data was collected
-2	activity	 
-Activity being performed
+1	subject:ID indicating the subject from whom data was collected
+2	activity:Activity being performed
 3	tBodyAccmeanX	
 4	tBodyAccmeanY	
 5	tBodyAccmeanZ	
